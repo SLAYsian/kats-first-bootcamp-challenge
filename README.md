@@ -23,8 +23,8 @@ Click the live link
 [Live](https://slayonce.github.io/kats-first-bootcamp-challenge/#social-media-marketing)
 
 ### Screenshots:
-![SS-1](https://user-images.githubusercontent.com/127693250/227376793-444af4c8-6a7e-4066-9cee-907a4a6c38d4.png)
-![SS-2](https://user-images.githubusercontent.com/127693250/227376796-53861696-0652-45e7-a982-a7acc7d600ba.png)
+![SS-1](https://user-images.githubusercontent.com/127693250/227403775-ae0b5fbf-ad06-41a6-823e-dded7eeb6d89.png)
+![SS-2](https://user-images.githubusercontent.com/127693250/227403809-64f222e7-b116-451f-abf1-58eea27426f1.png)
 
 ### References
 
