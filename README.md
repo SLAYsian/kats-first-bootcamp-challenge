@@ -1,4 +1,4 @@
-# bootcamp-week-1-challenge
+# BOOTCAMP WEEK 1 CHALLENGE
 
 Bootcamp Week 1 Challenge - 01 HTML, CSS, and Git: Code Refactor
 
