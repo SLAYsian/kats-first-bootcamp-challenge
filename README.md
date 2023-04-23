@@ -20,7 +20,7 @@ Click the live link
 
 ### Deployment:
 
-[Kat's First Bootcamp Challenge](https://slayonce.github.io/kats-first-bootcamp-challenge/#social-media-marketing)
+[Kat's First Bootcamp Challenge](https://slaysian.github.io/kats-first-bootcamp-challenge/)
 
 ### Screenshots:
 ![SS-1](https://user-images.githubusercontent.com/127693250/227403775-ae0b5fbf-ad06-41a6-823e-dded7eeb6d89.png)
